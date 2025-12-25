@@ -1,42 +1,149 @@
+# 💜 ¡Hola! Soy Edisson Paricahua 👨‍💻
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=edissonparicahua123&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="JaKooLit" /> </p>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=Estudiante+de+Ingeniería+de+Software+🎓;Apasionado+por+la+Tecnología+💻;Fan+de+las+Quintillizas+💙💜)
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Jay+" />
-</h3>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
-</p>
-
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+<div align="center">
+  <img src="https://media.tenor.com/images/503e415b7susb3f8c9d8f9a9c6b2e/tenor.gif" width="400"/>
+</div>
 
 ---
 
-- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
-- 🌱 I’m currently learning how to code properly
-- 📫 You can follow me on Youtube. [YouTube](https://www.youtube.com/@Ja.KooLit) Please subscribe 🤩 Thanks alot 
-- 🏠 Kindly join my discord [Discord](https://discord.com/invite/9JEgZsfhex)
+## 🌸 Sobre Mí
+```javascript
+const edisson = {
+    ubicacion: "Juliaca, Puno 🇵🇪",
+    educacion: "Ingeniería de Software 📚",
+    waifus_favoritas: ["Nino Nakano 💜", "Miku Nakano 💙"],
+    estado: "Estudiando y codeando ⚡",
+    frase: "El código es como Nino... difícil al principio pero increíble cuando lo entiendes 💕"
+};
+```
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/d8/0c/f3/d80cf3f7b7f8b8f8c8d8f8c8d8f8c8d8.gif" width="300"/>
+</div>
+
 ---
 
-📊 Stats
+## 💻 Stack Tecnológico
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edissonparicahua123&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edissonparicahua123&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edissonparicahua123&theme=tokyonight)
+<div align="center">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/edissonparicahua123)
+### 🎨 Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/edissonparicahua123)
+### 🚀 Frameworks & Librerías
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-Or you can donate cryto on my btc wallet :)  
-> 1N3MeV2dsX6gQB42HXU6MF2hAix1mqjo8i
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Bitcoin](https://github.com/user-attachments/assets/7ed32f8f-c499-46f0-a53c-3f6fbd343699)
+### 🛠️ Herramientas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+</div>
 
-<h3 align="center">
+---
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+## 📊 Estadísticas de GitHub
 
-</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edissonparicahua123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edissonparicahua123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edissonparicahua123&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+</div>
+
+---
+
+## 🎯 Proyectos Destacados
+
+<div align="center">
+
+| 💜 Proyecto | 📝 Descripción | 🔗 Link |
+|-------------|----------------|---------|
+| 🌟 **Sistema Web** | Proyecto académico de gestión | [Ver Repo](https://github.com/edissonparicahua123) |
+| 🎮 **App Móvil** | Aplicación en desarrollo | [Ver Repo](https://github.com/edissonparicahua123) |
+| 🤖 **Bot Discord** | Bot personalizado | [Ver Repo](https://github.com/edissonparicahua123) |
+
+</div>
+
+---
+
+## 🌸 Mis Waifus Favoritas
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/nino-nakano.gif" width="200" style="margin: 10px;"/>
+  <img src="https://i.pinimg.com/originals/miku-nakano.gif" width="200" style="margin: 10px;"/>
+  
+### 💜 Nino Nakano - La Tsundere Perfecta
+### 💙 Miku Nakano - La Adorable Tímida
+
+</div>
+
+---
+
+## 📫 Conecta Conmigo
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edissonparicahua123)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+
+</div>
+
+---
+
+## 🎵 Actualmente Escuchando
+
+<div align="center">
+  
+[![Spotify](https://novatorem-edissonparicahua123.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario)
+
+</div>
+
+---
+
+## 💭 Frase Motivadora
+
+<div align="center">
+```
+"El código es poesía, y cada bug es una oportunidad de aprender"
+- Un desarrollador en proceso 💻✨
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=¡Gracias%20por%20visitar!&fontSize=30&fontColor=fff&animation=twinkling" />
+</div>
+
+---
+
+<div align="center">
+  
+### 💜 "Si Nino puede cambiar, yo también puedo mejorar cada día como programador" 💜
+
+![Visitor Count](https://profile-counter.glitch.me/edissonparicahua123/count.svg)
+
+⭐ From [edissonparicahua123](https://github.com/edissonparicahua123) with 💜
+
+</div>
