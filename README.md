@@ -13,32 +13,10 @@
 ## 🎨 Anime Waifus Corner
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://i.pinimg.com/originals/df/14/5f/df145f8f0c3e7d84be4f0e3d3f94f0bb.gif" width="120" height="120"/>
-<br><b>Nezuko</b>
-</td>
-<td align="center" width="20%">
-<img src="https://i.pinimg.com/originals/a6/1d/8c/a61d8c742a724c7d9a7c3f0ad0f58c3c.gif" width="120" height="120"/>
-<br><b>Miku</b>
-</td>
-<td align="center" width="20%">
-<img src="https://i.pinimg.com/originals/9b/98/6f/9b986f4d21709b3a14a7c4daef5e5040.gif" width="120" height="120"/>
-<br><b>Zero Two</b>
-</td>
-<td align="center" width="20%">
-<img src="https://i.pinimg.com/originals/e5/3c/2b/e53c2b5a56a5c3db29e851f865a3cd7d.gif" width="120" height="120"/>
-<br><b>Rem</b>
-</td>
-<td align="center" width="20%">
-<img src="https://i.pinimg.com/originals/c0/3d/88/c03d88f3f43e2f7a2e5b8f6c0b5c7d3e.gif" width="120" height="120"/>
-<br><b>Mai</b>
-</td>
-</tr>
-</table>
 
-<img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="400"/>
+<img src="https://media1.tenor.com/m/eYCcVDdC_zEAAAAC/nezuko-kamado-nezuko.gif" width="150"/> <img src="https://media1.tenor.com/m/7JQXaEDdC0QAAAAC/miku-nakano-miku.gif" width="150"/> <img src="https://media1.tenor.com/m/gZ-CYmWqvWoAAAAC/anime-zero-two.gif" width="150"/> <img src="https://i.pinimg.com/originals/b3/6d/6f/b36d6f3f3f1c1e1c1c1c1c1c1c1c1c1c.gif" width="150"/> <img src="https://media1.tenor.com/m/wBgdVNn-u4sAAAAC/mai-sakurajima-bunny-girl-senpai.gif" width="150"/>
+
+### 💖 My Favorite Waifus 💖
 
 </div>
 
@@ -46,26 +24,117 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Anime Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table>
+<tr>
+<td width="50%">
+
+### 📝 Quick Info
 ```typescript
 const edisson = {
   location: "Juliaca, Puno 🇵🇪",
   education: "Software Engineering",
   role: "Full Stack Developer",
-  code: ["JavaScript", "Python", "Java", "C++"],
-  technologies: {
-    frontEnd: ["React", "Next.js", "Vue"],
-    backEnd: ["Node.js", "Django", "Flask"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    devOps: ["Docker", "AWS", "Linux"]
-  },
-  hobbies: ["Coding", "Anime", "Gaming"],
-  currentFocus: "Building awesome projects",
+  code: [
+    "JavaScript", "Python", 
+    "Java", "C++"
+  ],
+  hobbies: [
+    "Coding 💻", 
+    "Anime 🎌", 
+    "Gaming 🎮"
+  ],
   funFact: "I debug with console.log() 😅"
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💖 Favorite Waifus Gallery
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://64.media.tumblr.com/f9aa8f0e5e6ea12798d0e6e0f983f3c8/tumblr_inline_p7n60qPfhc1rp42gj_400.gifv" width="200" height="280"/>
+<br><br>
+<b>🌸 Hinata Hyuga</b>
+<br>
+<i>Naruto</i>
+</td>
+<td align="center" width="33%">
+<img src="https://i.pinimg.com/originals/b3/6d/6f/b36d6f3f3f1c1e1c1c1c1c1c1c1c1c1c.gif" width="200" height="280"/>
+<br><br>
+<b>💙 Rem</b>
+<br>
+<i>Re:Zero</i>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/gZ-CYmWqvWoAAAAC/anime-zero-two.gif" width="200" height="280"/>
+<br><br>
+<b>💗 Zero Two</b>
+<br>
+<i>Darling in the Franxx</i>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/WL4JHATfWn8AAAAC/nino-nakano-the-quintessential-quintuplets.gif" width="200" height="280"/>
+<br><br>
+<b>💜 Nino Nakano</b>
+<br>
+<i>Gotoubun no Hanayome</i>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/7JQXaEDdC0QAAAAC/miku-nakano-miku.gif" width="200" height="280"/>
+<br><br>
+<b>💙 Miku Nakano</b>
+<br>
+<i>Gotoubun no Hanayome</i>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/wBgdVNn-u4sAAAAC/mai-sakurajima-bunny-girl-senpai.gif" width="200" height="280"/>
+<br><br>
+<b>🖤 Mai Sakurajima</b>
+<br>
+<i>Bunny Girl Senpai</i>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/eYCcVDdC_zEAAAAC/nezuko-kamado-nezuko.gif" width="200" height="280"/>
+<br><br>
+<b>🌺 Nezuko Kamado</b>
+<br>
+<i>Demon Slayer</i>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/4ATqGJrW7qsAAAAC/violet-evergarden-anime.gif" width="200" height="280"/>
+<br><br>
+<b>💠 Violet Evergarden</b>
+<br>
+<i>Violet Evergarden</i>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/gR6jHGCYxQIAAAAC/kaguya-sama-love-is-war-kaguya-shinomiya.gif" width="200" height="280"/>
+<br><br>
+<b>❤️ Kaguya Shinomiya</b>
+<br>
+<i>Kaguya-sama</i>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -114,115 +183,41 @@ const edisson = {
 
 ---
 
-## 💖 Favorite Waifus
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://64.media.tumblr.com/f9aa8f0e5e6ea12798d0e6e0f983f3c8/tumblr_inline_p7n60qPfhc1rp42gj_400.gifv" width="200"/>
-<br><br>
-<b>🌸 Hinata Hyuga</b>
-<br>
-<i>Naruto</i>
-</td>
-<td align="center" width="33%">
-<img src="https://i.pinimg.com/originals/b3/6d/6f/b36d6f3f3f1c1e1c1c1c1c1c1c1c1c1c.gif" width="200"/>
-<br><br>
-<b>💙 Rem</b>
-<br>
-<i>Re:Zero</i>
-</td>
-<td align="center" width="33%">
-<img src="https://media1.tenor.com/m/gZ-CYmWqvWoAAAAC/anime-zero-two.gif" width="200"/>
-<br><br>
-<b>💗 Zero Two</b>
-<br>
-<i>Darling in the Franxx</i>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://media1.tenor.com/m/WL4JHATfWn8AAAAC/nino-nakano-the-quintessential-quintuplets.gif" width="200"/>
-<br><br>
-<b>💜 Nino Nakano</b>
-<br>
-<i>Gotoubun no Hanayome</i>
-</td>
-<td align="center" width="33%">
-<img src="https://media1.tenor.com/m/7JQXaEDdC0QAAAAC/miku-nakano-miku.gif" width="200"/>
-<br><br>
-<b>💙 Miku Nakano</b>
-<br>
-<i>Gotoubun no Hanayome</i>
-</td>
-<td align="center" width="33%">
-<img src="https://media1.tenor.com/m/wBgdVNn-u4sAAAAC/mai-sakurajima-bunny-girl-senpai.gif" width="200"/>
-<br><br>
-<b>🖤 Mai Sakurajima</b>
-<br>
-<i>Bunny Girl Senpai</i>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://media1.tenor.com/m/eYCcVDdC_zEAAAAC/nezuko-kamado-nezuko.gif" width="200"/>
-<br><br>
-<b>🌺 Nezuko Kamado</b>
-<br>
-<i>Demon Slayer</i>
-</td>
-<td align="center" width="33%">
-<img src="https://media1.tenor.com/m/4ATqGJrW7qsAAAAC/violet-evergarden-anime.gif" width="200"/>
-<br><br>
-<b>💠 Violet Evergarden</b>
-<br>
-<i>Violet Evergarden</i>
-</td>
-<td align="center" width="33%">
-<img src="https://media1.tenor.com/m/gR6jHGCYxQIAAAAC/kaguya-sama-love-is-war-kaguya-shinomiya.gif" width="200"/>
-<br><br>
-<b>❤️ Kaguya Shinomiya</b>
-<br>
-<i>Kaguya-sama</i>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=edissonparicahua123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=edissonparicahua123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" width="100%"/>
+
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edissonparicahua123&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edissonparicahua123&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" width="100%"/>
+
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edissonparicahua123&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edissonparicahua123&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" width="100%"/>
+
 </td>
 <td width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=edissonparicahua123&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=edissonparicahua123&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" width="100%"/>
+
 </td>
 </tr>
 </table>
-</div>
 
-<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edissonparicahua123&theme=tokyonight" width="100%" />
-</div>
 
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=edissonparicahua123&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="100%" />
+
 </div>
 
 ---
@@ -230,26 +225,32 @@ const edisson = {
 ## 🎯 Anime Coding Modes
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center" width="25%">
 <img src="https://media.tenor.com/SpWjGkEYpK0AAAAC/anime-aesthetic.gif" width="150" height="150"/>
-<br><b>☕ Morning Coffee</b>
+<br><br>
+<b>☕ Morning Coffee</b>
 </td>
 <td align="center" width="25%">
 <img src="https://media.tenor.com/s3dHZva_Me4AAAAC/anime-typing.gif" width="150" height="150"/>
-<br><b>💻 Coding Time</b>
+<br><br>
+<b>💻 Coding Time</b>
 </td>
 <td align="center" width="25%">
 <img src="https://media.tenor.com/WHBDjlDlE_EAAAAC/anime-working.gif" width="150" height="150"/>
-<br><b>🐛 Debugging</b>
+<br><br>
+<b>🐛 Debugging</b>
 </td>
 <td align="center" width="25%">
 <img src="https://media.tenor.com/yGy6yqHqLo0AAAAC/anime-sleep.gif" width="150" height="150"/>
-<br><b>😴 Deploy Time</b>
+<br><br>
+<b>😴 Deploy Time</b>
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -272,7 +273,9 @@ const edisson = {
 ## 💡 Random Dev Quote
 
 <div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </div>
 
 ---
@@ -280,11 +283,13 @@ const edisson = {
 ## 🐍 Contribution Snake
 
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edissonparicahua123/edissonparicahua123/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edissonparicahua123/edissonparicahua123/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edissonparicahua123/edissonparicahua123/output/github-contribution-grid-snake.svg">
 </picture>
+
 </div>
 
 ---
@@ -302,6 +307,7 @@ const edisson = {
 ---
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 ### 💜 "Code like your waifu is watching" 💙
